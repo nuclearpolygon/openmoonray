@@ -58,3 +58,4 @@ boot
 .src_project*
 .config.xml
 .metadata_src_project
+/NVIDIA-OptiX*
